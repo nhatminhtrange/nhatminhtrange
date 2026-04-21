@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Minh Nhat Tran
 
 ## 👨‍💻 About me
-- 🎓 PhD student in Geophysics
+- 🎓 PhD student in Geophysics at University of Houston, working with [Dr. Li](https://jxli2a.github.io/)
 - 🌍 Working on Full Waveform Inversion (FWI)
 - 💻 Using Python, MATLAB & C++
 
