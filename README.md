@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Minh Nhat Tran
 
-<!--
-**nhatminhtrange/nhatminhtrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About me
+- 🎓 PhD student in Geophysics
+- 🌍 Working on Full Waveform Inversion (FWI)
+- 💻 Using Python, MATLAB & C++
 
-Here are some ideas to get you started:
+## 🔥 What I'm working on
+- Tomography, full waveform inversion
+- High-performance computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: nhat.tran.ge@gmail.com
+
+## 📈 My GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=nhatminhtrange&show_icons=true&theme=radical)
