@@ -8,7 +8,7 @@
 ## 🔥 What I'm working on
 - 🌍 Some geophysics and seismology aspects: Full Waveform Inversion (FWI), Distributed Acoustic Sensing (DAS), geophysical data processing
 - 💻 High-Performance Computing (HPC)
-- 💻 Using Python, MATLAB & C++
+- 💻 Using Python and MATLAB
 ## 📫 Contact
 - Email: nhat.tran.ge@gmail.com
 
