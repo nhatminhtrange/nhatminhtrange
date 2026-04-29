@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Minh Nhat Tran
 
 ## 👨‍💻 About me
-- 🎓 Civil Engineering, Ho Chi Minh City University of Technology, Vietnam National University
+- 🎓 Civil Engineering, Ho Chi Minh City University of Technology, Vietnam National University (Bách Khoa TP Ho Chi Minh)
 - 🎓 Civil Engineering, Research Assistant at University of Florida (Almost two years)
 - 🎓 PhD student in Geophysics at University of Houston, working with [Dr. Jiaxuan Li](https://jxli2a.github.io/)
 
