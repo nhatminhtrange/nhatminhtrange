@@ -13,5 +13,5 @@
 - Email: nhat.tran.ge@gmail.com
 - Email: nmtran7@uh.edu
 
-## 📈 My GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=nhatminhtrange&show_icons=true&theme=radical)
+## 📈 My Google schoolar
+[Minh Nhat Tran](https://scholar.google.com/citations?user=RxLjag8AAAAJ&hl=vi)
