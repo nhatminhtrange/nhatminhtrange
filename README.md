@@ -9,6 +9,10 @@
 - 🌍 Some geophysics and seismology aspects: Full Waveform Inversion (FWI), Distributed Acoustic Sensing (DAS), geophysical data processing
 - 💻 High-Performance Computing (HPC)
 - 💻 Using Python and MATLAB
+
+## 📄 Curriculum Vitae
+📎 [View / download my current CV](./Minh_Nhat_Tran_CV.pdf)
+
 ## 📫 Contact
 - Email: nhat.tran.ge@gmail.com
 - Email: nmtran7@uh.edu
