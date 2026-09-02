@@ -11,7 +11,8 @@
 - 💻 Using Python and MATLAB
 
 ## 📄 Curriculum Vitae
-[📎 [View / download my current CV](./Minh_Nhat_Tran_CV.pdf)](https://nhatminhtrange.github.io/nhatminhtrange/Minh_Nhat_Tran_CV.pdf)
+
+[View my CV (PDF)](https://nhatminhtrange.github.io/nhatminhtrange/Minh_Nhat_Tran_CV.pdf)
 
 ## 📫 Contact
 - Email: nhat.tran.ge@gmail.com
